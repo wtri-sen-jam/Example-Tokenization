@@ -1,0 +1,79 @@
+{
+  "name": "Hangover Prevention Patent NFT",
+  "description": "US Patent 10,420,756 B2 - Methods and compositions to inhibit symptoms associated with veisalgia (hangover). A pharmaceutical composition comprising non-steroidal anti-inflammatory drugs and H1-antihistamines administered prior to alcohol intake to prevent hangover symptoms.",
+  "image": "https://your-storage-service.com/patent-10420756-image.png",
+  "external_url": "https://patents.uspto.gov/patent/10420756",
+  "attributes": [
+    {
+      "trait_type": "IP Type",
+      "value": "Utility Patent"
+    },
+    {
+      "trait_type": "Patent Number",
+      "value": "US 10,420,756 B2"
+    },
+    {
+      "trait_type": "Patent Title",
+      "value": "Methods and Compositions to Inhibit Symptoms Associated with Veisalgia"
+    },
+    {
+      "trait_type": "Inventors",
+      "value": "Jacqueline M. Iversen, James M. Iversen"
+    },
+    {
+      "trait_type": "Assignee",
+      "value": "SEN-JAM PHARMACEUTICAL LLC"
+    },
+    {
+      "trait_type": "Filing Date",
+      "value": "2016-03-18"
+    },
+    {
+      "trait_type": "Patent Date",
+      "value": "2019-09-24"
+    },
+    {
+      "trait_type": "Application Number",
+      "value": "15/074,524"
+    },
+    {
+      "trait_type": "Patent Classification",
+      "value": "A61K 31/445"
+    },
+    {
+      "trait_type": "Field of Invention",
+      "value": "Pharmaceutical Compositions"
+    },
+    {
+      "trait_type": "Technology Area",
+      "value": "Medical/Pharmaceutical"
+    },
+    {
+      "trait_type": "Patent Status",
+      "value": "Granted"
+    },
+    {
+      "trait_type": "Claims Count",
+      "value": "15"
+    },
+    {
+      "trait_type": "Priority Date",
+      "value": "2015-03-26"
+    }
+  ],
+  "properties": {
+    "patent_number": "US10420756B2",
+    "uspto_url": "https://patents.uspto.gov/patent/10420756",
+    "filing_date": "2016-03-18",
+    "grant_date": "2019-09-24",
+    "expiry_date": "2036-03-18",
+    "patent_family": "Hangover prevention pharmaceutical compositions",
+    "primary_classification": "A61K 31/445 - Medicinal preparations containing organic active ingredients",
+    "inventors_location": "Lloyd Harbor, NY, US",
+    "assignee_location": "Huntington, NY, US",
+    "claims_count": 15,
+    "prior_art_references": 60,
+    "patent_type": "Utility Patent",
+    "technology_field": "Pharmaceutical compositions for hangover prevention"
+  }
+}
