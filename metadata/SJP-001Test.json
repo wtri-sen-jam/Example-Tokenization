@@ -1,8 +1,10 @@
 {
-  "name": "Hangover Prevention Patent NFT",
+  "name": "Hangover Prevention Patent NFT v1.0",
   "description": "US Patent 10,420,756 B2 - Methods and compositions to inhibit symptoms associated with veisalgia (hangover). A pharmaceutical composition comprising non-steroidal anti-inflammatory drugs and H1-antihistamines administered prior to alcohol intake to prevent hangover symptoms.",
-  "image": "https://your-storage-service.com/patent-10420756-image.png",
+  "image": "https://wtri-sen-jam.github.io/Example-Tokenization/images/Grandmas_remedies_just_got_outsmarted",
   "external_url": "https://patents.uspto.gov/patent/10420756",
+  "animation_url": null,
+  "background_color": "ffffff",
   "attributes": [
     {
       "trait_type": "IP Type",
@@ -41,10 +43,6 @@
       "value": "A61K 31/445"
     },
     {
-      "trait_type": "Field of Invention",
-      "value": "Pharmaceutical Compositions"
-    },
-    {
       "trait_type": "Technology Area",
       "value": "Medical/Pharmaceutical"
     },
@@ -57,8 +55,12 @@
       "value": "15"
     },
     {
-      "trait_type": "Priority Date",
-      "value": "2015-03-26"
+      "trait_type": "Metadata Version",
+      "value": "1.0"
+    },
+    {
+      "trait_type": "Last Updated",
+      "value": "2025-09-16"
     }
   ],
   "properties": {
@@ -68,12 +70,14 @@
     "grant_date": "2019-09-24",
     "expiry_date": "2036-03-18",
     "patent_family": "Hangover prevention pharmaceutical compositions",
-    "primary_classification": "A61K 31/445 - Medicinal preparations containing organic active ingredients",
+    "primary_classification": "A61K 31/445",
     "inventors_location": "Lloyd Harbor, NY, US",
     "assignee_location": "Huntington, NY, US",
     "claims_count": 15,
-    "prior_art_references": 60,
-    "patent_type": "Utility Patent",
-    "technology_field": "Pharmaceutical compositions for hangover prevention"
+    "technology_field": "Pharmaceutical compositions for hangover prevention",
+    "metadata_version": "1.0",
+    "last_modified": "2025-09-16T00:00:00Z",
+    "contract_address": "TO_BE_FILLED_AFTER_DEPLOYMENT",
+    "token_id": "TO_BE_FILLED_AFTER_MINTING"
   }
 }
